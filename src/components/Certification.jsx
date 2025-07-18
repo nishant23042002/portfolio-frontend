@@ -45,7 +45,7 @@ function Certification() {
   const [selectedCertId, setSelectedCertId] = useState(null);
 
   const toggleCert = (id) => {
-    setSelectedCertId(prev => prev === id ? null : id); // toggle view
+    setSelectedCertId(prev => prev === id ? null : id);
   };
 
   return (

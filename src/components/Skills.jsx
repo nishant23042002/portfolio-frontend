@@ -123,7 +123,7 @@ export default function Skills() {
             <SkillIcon src="/git.png" alt="Git" />
             <SkillIcon src="/github.png" alt="GitHub" />
             <SkillIcon src="/vs-code.png" alt="VS Code" />
-            <SkillIcon src="/postman.png" alt="Postman" />
+            <SkillIcon src="/Postman.png" alt="Postman" />
             <SkillIcon src="/netlify.png" alt="Netlify" />
           </div>
         </div>
