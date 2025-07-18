@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import profileImg from "../assets/download.jpeg";
+import profileImg from "/MPic.png";
 import { useLayoutEffect } from "react";
 gsap.registerPlugin(ScrollTrigger);
 
@@ -13,9 +13,9 @@ function IntroPage() {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: comp.current,
-        start: "top 80%",       // Adjust as needed
-        toggleActions: "play none none reverse", // play on enter, reverse on leave
-        markers: false,         // set to true for debugging
+        start: "top 80%",       
+        toggleActions: "play none none reverse", 
+        markers: false,        
       },
     });
 

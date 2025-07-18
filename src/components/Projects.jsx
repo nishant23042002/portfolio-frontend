@@ -8,28 +8,28 @@ export default function Projects() {
   const projects = [
     {
       title: "YouTube Clone",
-      image: "./src/assets/homepage.png",
+      image: "/homepage.png",
       description: "A full-featured video platform built with MERN stack allowing users to upload, comment ...more",
       live: "#",
       github: "https://github.com/nishant23042002/Youtube_Clone-Frontend"
     },
     {
       title: "ShoppyGlobe",
-      image: "./src/assets/shoppyglobe.png",
+      image: "/shoppyglobe.png",
       description: "An e-commerce platform with filtering, cart, Stripe payments, and order tracking using MERN stack.",
       live: "#",
       github: "https://github.com/nishant23042002/MERN-ShoppyGlobe-Frontend"
     },
     {
       title: "Live Chat App",
-      image: "./src/assets/chatapp.png",
+      image: "/chatapp.png",
       description: "Real-time chat app using Socket.IO and Node.js with dynamic room creation and message broadcasting.",
       live: "#",
       github: "https://github.com/nishant23042002/Socket.IO-ChatApp" 
     },
     {
       title: "Expenses Tracker",
-      image: "./src/assets/expenses.png",
+      image: "/expenses.png",
       description: "Track daily expenses and visualize them with charts. Built using MERN stack and Chart.js.",
       live: "#",
       github: "https://github.com/nishant23042002/MERN-Expense-Tracker"

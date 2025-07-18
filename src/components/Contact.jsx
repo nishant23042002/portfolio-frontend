@@ -184,7 +184,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="flex items-center md:gap-2 hover:text-blue-600 transition"
           >
-            <SocialIcons src="./src/assets/icons8-linkedin-48.png" alt="LinkedIn" />
+            <SocialIcons src="/icons8-linkedin-48.png" alt="LinkedIn" />
           </a>
 
           <a
@@ -193,7 +193,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="flex items-center md:gap-2 hover:text-gray-800 transition"
           >
-            <SocialIcons src="./src/assets/icons8-github-30.png" alt="GitHub" />
+            <SocialIcons src="/icons8-github-30.png" alt="GitHub" />
           </a>
 
           <a
@@ -202,7 +202,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="flex items-center md:gap-2 hover:text-sky-500 transition"
           >
-            <SocialIcons src="./src/assets/icons8-twitter-48.png" alt="Twitter" />
+            <SocialIcons src="/icons8-twitter-48.png" alt="Twitter" />
           </a>
 
           <a
@@ -211,7 +211,7 @@ function Contact() {
             rel="noopener noreferrer"
             className="flex items-center md:gap-2 hover:text-sky-500 transition"
           >
-            <SocialIcons src="./src/assets/icons8-instagram-48.png" alt="Instagram" />
+            <SocialIcons src="/icons8-instagram-48.png" alt="Instagram" />
           </a>
         </div>
       </div>

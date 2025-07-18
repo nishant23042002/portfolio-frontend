@@ -95,11 +95,11 @@ export default function Skills() {
         <div className="skill-card rounded-xl shadow-md p-6 w-full xl:w-1/3 lg:h-80 bg-slate-800 text-white">
           <h3 className="text-center text-2xl font-semibold text-sky-600 mb-9">Frontend</h3>
           <div className="flex justify-evenly flex-wrap gap-4 mb-4 select-none">
-            <SkillIcon src="./src/assets/html-5.png" alt="HTML-5" />
-            <SkillIcon src="./src/assets/css-3.png" alt="CSS-3" />
-            <SkillIcon src="./src/assets/js.png" alt="JavaScript" />
-            <SkillIcon src="./src/assets/tailwind.png" alt="Tailwind" />
-            <SkillIcon src="./src/assets/react.png" alt="React" />
+            <SkillIcon src="/html-5.png" alt="HTML-5" />
+            <SkillIcon src="/css-3.png" alt="CSS-3" />
+            <SkillIcon src="/js.png" alt="JavaScript" />
+            <SkillIcon src="/tailwind.png" alt="Tailwind" />
+            <SkillIcon src="/react.png" alt="React" />
           </div>
         </div>
 
@@ -107,12 +107,12 @@ export default function Skills() {
         <div className="skill-card rounded-xl shadow-md p-6 w-full xl:w-1/3 lg:h-80 bg-gray-800 text-white">
           <h3 className="text-center text-2xl font-semibold text-green-600 mb-9">Backend</h3>
           <div className="flex justify-evenly flex-wrap gap-4 mb-4 select-none">
-            <SkillIcon src="./src/assets/nodejs.png" alt="Node.js" />
-            <SkillIcon src="./src/assets/expressjs.png" alt="Express.js" />
-            <SkillIcon src="./src/assets/mongodb.png" alt="MongoDB" />
-            <SkillIcon src="./src/assets/mongoose.png" alt="Mongoose" />
-            <SkillIcon src="./src/assets/cloudinary.png" alt="Cloudinary" />
-            <SkillIcon src="./src/assets/api.png" alt="RESTful API" />
+            <SkillIcon src="/nodejs.png" alt="Node.js" />
+            <SkillIcon src="/expressjs.png" alt="Express.js" />
+            <SkillIcon src="/mongodb.png" alt="MongoDB" />
+            <SkillIcon src="/mongoose.png" alt="Mongoose" />
+            <SkillIcon src="/cloudinary.png" alt="Cloudinary" />
+            <SkillIcon src="/api.png" alt="RESTful API" />
           </div>
         </div>
 
@@ -120,11 +120,11 @@ export default function Skills() {
         <div className="skill-card rounded-xl shadow-md p-6 w-full xl:w-1/3 lg:h-80 bg-slate-800 text-white">
           <h3 className="text-center text-2xl font-semibold text-amber-600 mb-9">Tools & Other</h3>
           <div className="flex justify-evenly flex-wrap gap-4 mb-4 select-none">
-            <SkillIcon src="./src/assets/git.png" alt="Git" />
-            <SkillIcon src="./src/assets/github.png" alt="GitHub" />
-            <SkillIcon src="./src/assets/vs-code.png" alt="VS Code" />
-            <SkillIcon src="./src/assets/postman.png" alt="Postman" />
-            <SkillIcon src="./src/assets/netlify.png" alt="Netlify" />
+            <SkillIcon src="/git.png" alt="Git" />
+            <SkillIcon src="/github.png" alt="GitHub" />
+            <SkillIcon src="/vs-code.png" alt="VS Code" />
+            <SkillIcon src="/postman.png" alt="Postman" />
+            <SkillIcon src="/netlify.png" alt="Netlify" />
           </div>
         </div>
       </div>
